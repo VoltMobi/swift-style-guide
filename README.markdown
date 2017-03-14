@@ -1,4 +1,4 @@
-# he official VoltMobi Swift style guide
+# The official VoltMobi Swift style guide
 
 ## Credits
 
