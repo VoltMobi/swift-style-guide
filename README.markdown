@@ -2,7 +2,7 @@
 
 ## Credits
 
-Our style guide is mostly based on [raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/objective-c-style-guide).
+Our style guide is mostly based on [raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide).
 
 
 ## Table of Contents
